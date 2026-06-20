@@ -3,7 +3,7 @@
   "wake_word": "Hei Keke",
   "author": "microwakeword.com",
   "website": "https://microwakeword.com",
-  "model": "github://keloat/keke-wakeword/hei_keke.tflite@main",
+  "model": "./hei_keke.tflite",
   "trained_languages": [
     "en"
   ],
